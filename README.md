@@ -22,4 +22,4 @@ Open `index.html` in browser or use Live Server in VS Code.
 index.html  
 style.css  
 script.js  
-README.md
+Readme.md
