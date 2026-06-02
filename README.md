@@ -1,4 +1,4 @@
-# 🪑 Luxury Furniture Website
+# 🪑 Furniture Website
 
 A modern responsive furniture landing page built using HTML, CSS, Bootstrap, and JavaScript.
 
