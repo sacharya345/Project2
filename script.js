@@ -36,6 +36,7 @@ document.querySelectorAll(".cat-card").forEach(card => {
     });
 });
 
+// Product card click interaction for showing product details
 document.querySelectorAll(".product-card").forEach(card => {
     card.addEventListener("click", () => {
         const name = card.querySelector("h5")?.innerText;
